@@ -36,7 +36,7 @@ except ImportError:
     print("📋 请复制 config_local.example.py 为 config_local.py 并配置您的设置")
     
     # 提供默认值以防导入失败
-    TELEGRAM_BOT_TOKEN = "TELEGRAM_BOT_TOKEN", ""
+    TELEGRAM_BOT_TOKEN = 7886752854:AAEg-NbNwNi_QbUNxoKwnWYZ27DqeUA9MTU
     ADMIN_USER_ID = None
     BOT_USERNAME = "your_bot_username"
     DATABASE_URL = "sqlite:///bot.db"
